@@ -1,4 +1,4 @@
-# NLP N-Gram Model
+# NLP - N-Gram Model
 
 ## Introduction
 - In this assignment you will do some basic natural language processing (NLP). You will write a program which will construct a language model (for several different languages) and, when asked to classify a text, should select the language whose model is closer to the text in question. The language model (described below) will be constructed from text files.
